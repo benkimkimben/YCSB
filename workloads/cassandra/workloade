@@ -43,5 +43,8 @@ maxscanlength=100
 
 scanlengthdistribution=uniform
 
-# hbase specific
-columnfamily=cf1
+# cassandra specific (keyspace needs to be 'usertable')
+cassandra.username=cassandra
+cassandra.password=cassandra
+cassandra.columnfamily=cf1
+hosts=skcc-nebdap15,skcc-nebdap16,skcc-nebdap17,skcc-nebdap18,skcc-nebdap19,skcc-nebdap20

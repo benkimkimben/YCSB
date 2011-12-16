@@ -42,4 +42,4 @@ cassandra.username=cassandra
 cassandra.password=cassandra
 #table name needs to be 'usertable'
 cassandra.columnfamily=cf1
-hosts=skcc-nebdap15
+hosts=skcc-nebdap15,skcc-nebdap16,skcc-nebdap17,skcc-nebdap18,skcc-nebdap19,skcc-nebdap20

@@ -6,4 +6,5 @@ db/*/lib/*.jar
 db/*/lib/*.zip
 *.iml
 .idea
+out
 

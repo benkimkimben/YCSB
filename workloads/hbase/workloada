@@ -37,5 +37,4 @@ requestdistribution=zipfian
 
 
 # hbase specific 
-#table name needs to be 'usertable'
 columnfamily=cf1
